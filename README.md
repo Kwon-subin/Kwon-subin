@@ -1,4 +1,4 @@
-### Hi there 👋 I'm #Programmer 
+### Hi there 👋 I'm Programmer 
 
 <!--
 **Kwon-subin/Kwon-subin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
